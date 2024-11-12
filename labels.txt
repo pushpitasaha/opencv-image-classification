@@ -1,0 +1,3 @@
+0 Paper cups
+1 Plastic bottles
+2 Metal cans
