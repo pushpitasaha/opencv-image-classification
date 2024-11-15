@@ -63,7 +63,7 @@
    pip install opencv-python tensorflow==2.15.1 keras==2.15.0 numpy
    ```
 
-  ###MacOS:
+  ### MacOS:
    ```bash
     python3 -m venv .venv
     source .venv/bin/activate
