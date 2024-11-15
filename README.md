@@ -1,4 +1,4 @@
-# Waste Classifier Computer Vision Object Detection Model
+# Waste Classifier Computer Vision Model
 
 # Table of Contents
 
